@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Archita Vinod Waghmode 👋
 
-<!--
-**archita-waghmode/archita-waghmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | BSc IT Student | 📍 Pune, India
 
-Here are some ideas to get you started:
+BSc IT Student | Learning Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🌱 Currently learning: Full Stack Development (React + Java)
+- 💻 Frontend: HTML, CSS, JavaScript, React.js
+- ⚙️ Backend: Java, C, C++
+- 🗄️ Database: SQL, MongoDB & DSA
+- 🎯 Goal: Become a Job-Ready Developer
+
+### 🛠️ Tech Stack
+
+`C` `C++` `JAVA` `REACT` `MONGODB` `MYSQL`
+
+### 📌 Projects
+
+🚧 Building real-world projects... Stay tuned!
+
+### 📫 Connect
+
+- 📧 waghmodearchita@gmail.com
+- 📍 Pune, Maharashtra, India
